@@ -1,0 +1,68 @@
+.signup{
+    background-image: url('../assests/signupimage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    position:absolute;
+   
+  
+}
+#sign1{
+
+    color: white;
+    text-align: center;
+    font-size: 0.6cm;
+    font-family:'Times New Roman', Times, serif;
+}
+#signletspace{
+
+    letter-spacing:0.5ch;
+    font-weight: 350;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 4px;
+    text-align: center;
+    color: aliceblue;
+
+}
+#sign2{
+    text-align: center;
+    color:white;
+}
+#sign3{
+    font-size: 1cm;
+    font-style:normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-shadow: 2px 3px 0 gray;
+    line-height: 2px;
+    text-align: center;
+
+}
+
+#sign5{
+
+    text-align: center;
+}
+#sign6{
+
+    background-image: url("../assests/logd.avif");
+    margin-left: 11cm;
+    margin-right: 11.52cm;
+    margin-top: 4%;
+    height:12cm;
+    
+   
+}
+#signbutton{
+
+    background-color: rgba(197, 15, 15, 0.996);
+    color: aliceblue;
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    border: 1px solid  rgba(197, 15, 15, 0.996);
+    color: #fff;
+    padding: 10px 20px;
+    margin-left: 38%;
+}

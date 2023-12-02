@@ -1,0 +1,20 @@
+#adminflight1{
+
+    
+    line-height: 3%;
+    margin-top: 0.2%;
+}
+#adminhead{
+
+    background-color: gray;
+}
+#admintab{
+
+    color:whitesmoke;
+}
+#flightlist{
+    font-size:30px;
+    font-weight:400;
+    color:rgb(59, 57, 57);
+    margin-top: 1%;
+}

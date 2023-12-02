@@ -1,0 +1,36 @@
+#logininput{
+
+    width: 10cm;
+}
+#limg{
+    width: 15cm;
+    height: 15cm;
+}
+#cardsize{
+   
+    margin-left: 15%;
+    margin-right: 15%;
+    background-image: url('../assests/logd.avif');
+}
+#loginform{
+
+    margin-top: 25%;
+}
+.bc{
+    background-color: rgb(180, 195, 195);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh; 
+}
+#logquote{
+
+    font-style: italic;
+    font-size:35px;
+    font-family:'Times New Roman', Times, serif;
+}
+#logbut{
+
+    width: 4cm;
+    margin-left: 30%;
+}

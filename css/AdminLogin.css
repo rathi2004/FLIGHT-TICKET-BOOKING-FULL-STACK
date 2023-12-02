@@ -1,0 +1,88 @@
+
+.adminloginimg {
+    background: linear-gradient(to bottom, rgba(195, 20, 50, 0.8), rgba(36, 11, 54, 0.8)),
+    url("../assests//adminlogin.avif");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    width:9cm;
+    color:whitesmoke;
+    height:100vh;
+}
+
+#adminsigncontent{
+
+    margin-top: 10%;
+    text-align: center;
+   
+    width:77%;
+}
+
+#adminemail{
+ 
+    border-color: rgb(241, 238, 238);
+    border-top: 0cap;  
+    width: 60%;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 14px;
+}
+
+#adminpassword{
+   
+    border-color: rgb(241, 238, 238);
+    border-top: 0cap;
+    width: 60%;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 14px;
+
+}
+
+#adminemail:hover{
+
+    border-color: rgba(195, 20, 50, 0.8);
+}
+
+#adminpassword:hover{
+
+    border-color: rgba(195, 20, 50, 0.8);
+}
+
+#adminlable{
+
+    margin-right: 53%;
+    font-style:normal;
+    font-size:17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#adminbut{
+
+    background-color:rgba(195, 20, 50, 0.8);
+    border-color: rgba(195, 20, 50, 0.8);
+    width: 60%;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 14px;
+    font-style:normal;
+    font-size:17px;
+    margin-top: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#adminsign1{
+
+    font-style:normal;
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#adminsign2{
+    text-align: center;
+    margin-top:160%;
+}
+
+
+
